@@ -5,6 +5,9 @@ MSV: 11020120                       #
 Ngày sinh: 23/03/1993               #
 Nhóm 7.                             #
 #####################################
+pivotaltracker:
+https://www.pivotaltracker.com/s/projects/812707
+
 Làm việc với số nguyên lớn.
 Các phép toán thực hiện:
 - Cộng
