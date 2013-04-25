@@ -11,10 +11,18 @@ Các phép toán thực hiện:
 - Trừ
 - Nhân
 - Chia
-- Chia lấy dư
 Thư mục gồm các file
-algorithms.txt Các thuật toán được sử dụng
 BigNumber.java file mã nguồn
 BigNumberTest.java file mã nguồn test bằng JUnit Test
+
+Kết quả test
+
+JUnit version 4.10
+.....
+Time: 0.016
+
+OK (5 tests)
+
+Press any key to continue . . .
 
 ==========
